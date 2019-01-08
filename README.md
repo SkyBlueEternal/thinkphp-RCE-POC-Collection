@@ -3,6 +3,11 @@
 
 用python3和协程编写的think批量测试工具，需要大佬们手动添加payload。</br>
 https://github.com/SkyBlueEternal/thinkphp-RCE-POC-Collection/blob/master/ScanThinkphpRCE-POC.py</br>
+使用方法:</br>
+ usage:</br>
+                        thinkPHPBatchPoc.py -f target.txt # 批量检测是否存在thinkPHP代码执行漏洞</br>
+                        thinkPHPBatchPoc.py -u target_URL # 指定检测是否存在thinkPHP代码执行漏洞</br>
+
 </br>
 POC：</br>
 # thinkphp 5.0.22</br>
