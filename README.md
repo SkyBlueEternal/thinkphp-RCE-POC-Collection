@@ -1,5 +1,7 @@
 # thinkphp-RCE-POC</br>
-官方公告:https://blog.thinkphp.cn/869075</br>
+官方公告:</br>
+1、https://blog.thinkphp.cn/869075</br>
+2、https://blog.thinkphp.cn/910675</br>
 
 POC：</br>
 # thinkphp 5.0.22</br>
